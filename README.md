@@ -1,2 +1,2 @@
-# Est-gio
+# Estagio
 Exercícios propostos no estágio
